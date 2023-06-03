@@ -1,0 +1,2 @@
+# BilibiliUnabatedMovieList
+获取B站未删减电影的数据，将其保存到Mysql
